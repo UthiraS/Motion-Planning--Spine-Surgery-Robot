@@ -1,0 +1,61 @@
+InPut : act : <type 'float'> : 3.14159265359
+InPut : des : <type 'numpy.float64'> : -1.5192635473302003
+Ouput : check1<type 'numpy.float64'> : 4.763921759849386
+***********************InPut : act : <type 'numpy.float64'> : 4.763921759849386
+InPut : des : <type 'numpy.float64'> : -1.5898594019456995
+Ouput : check1<type 'numpy.float64'> : 4.693325905233887
+***********************InPut : act : <type 'numpy.float64'> : 4.693325905233887
+InPut : des : <type 'numpy.float64'> : -1.6303747548541274
+Ouput : check1<type 'numpy.float64'> : 4.652810552325459
+***********************InPut : act : <type 'numpy.float64'> : 4.652810552325459
+InPut : des : <type 'numpy.float64'> : -1.6445788179743195
+Ouput : check1<type 'numpy.float64'> : 4.638606489205267
+***********************InPut : act : <type 'numpy.float64'> : 4.638606489205267
+InPut : des : <type 'numpy.float64'> : -1.6410020857795802
+Ouput : check1<type 'numpy.float64'> : 4.642183221400006
+***********************InPut : act : <type 'numpy.float64'> : 4.642183221400006
+InPut : des : <type 'numpy.float64'> : -1.6348129805280198
+Ouput : check1<type 'numpy.float64'> : 4.648372326651566
+***********************InPut : act : <type 'numpy.float64'> : 4.648372326651566
+InPut : des : <type 'numpy.float64'> : -1.6432570026476299
+Ouput : check1<type 'numpy.float64'> : 4.639928304531956
+***********************InPut : act : <type 'numpy.float64'> : 4.639928304531956
+InPut : des : <type 'numpy.float64'> : -1.6779305964846456
+Ouput : check1<type 'numpy.float64'> : 4.605254710694941
+***********************InPut : act : <type 'numpy.float64'> : 4.605254710694941
+InPut : des : <type 'numpy.float64'> : -1.743006185510498
+Ouput : check1<type 'numpy.float64'> : 4.540179121669088
+***********************InPut : act : <type 'numpy.float64'> : 4.540179121669088
+InPut : des : <type 'numpy.float64'> : -1.875100129658576
+Ouput : check1<type 'numpy.float64'> : 4.40808517752101
+***********************InPut : act : <type 'numpy.float64'> : 4.40808517752101
+InPut : des : <type 'numpy.float64'> : -2.0369616488026887
+Ouput : check1<type 'numpy.float64'> : 4.2462236583768975
+***********************InPut : act : <type 'numpy.float64'> : 4.2462236583768975
+InPut : des : <type 'numpy.float64'> : -2.232585247282843
+Ouput : check1<type 'numpy.float64'> : 4.050600059896743
+***********************InPut : act : <type 'numpy.float64'> : 4.050600059896743
+InPut : des : <type 'numpy.float64'> : -2.4662160055451583
+Ouput : check1<type 'numpy.float64'> : 3.816969301634428
+***********************InPut : act : <type 'numpy.float64'> : 3.816969301634428
+InPut : des : <type 'numpy.float64'> : -2.7374855516803964
+Ouput : check1<type 'numpy.float64'> : 3.54569975549919
+***********************InPut : act : <type 'numpy.float64'> : 3.54569975549919
+InPut : des : <type 'numpy.float64'> : -3.0314354257998626
+Ouput : check1<type 'numpy.float64'> : 3.2517498813797237
+***********************InPut : act : <type 'numpy.float64'> : 3.2517498813797237
+InPut : des : <type 'numpy.float64'> : -3.314095363512193
+Ouput : check1<type 'numpy.float64'> : 2.9690899436673934
+***********************InPut : act : <type 'numpy.float64'> : 2.9690899436673934
+InPut : des : <type 'numpy.float64'> : -3.5493589099691945
+Ouput : check1<type 'numpy.float64'> : 2.733826397210392
+***********************InPut : act : <type 'numpy.float64'> : 2.733826397210392
+InPut : des : <type 'numpy.float64'> : -3.549358911312672
+Ouput : check1<type 'numpy.float64'> : 2.7338263958669144
+***********************InPut : act : <type 'numpy.float64'> : 2.7338263958669144
+InPut : des : <type 'numpy.float64'> : -3.549358911312672
+Ouput : check1<type 'numpy.float64'> : 2.7338263958669144
+***********************InPut : act : <type 'numpy.float64'> : 2.7338263958669144
+InPut : des : <type 'numpy.float64'> : -3.549358911312672
+Ouput : check1<type 'numpy.float64'> : 2.7338263958669144
+***********************

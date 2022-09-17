@@ -1,0 +1,31 @@
+InPut : entry : <type 'list'> : [-0.49423129967566204, -0.19944074908316098, -0.002578164008202366]
+InPut : target : <type 'list'> : [-0.48209327707418176, -0.19320636838939412, -0.15195621093843623]
+InPut : theta : <type 'int'> : 0
+Output : vector_x:<type 'numpy.ndarray'> : [ 0.37489803 -0.92702955 -0.00822701]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.08092015 -0.04156254  0.99585365]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.92352769 -0.37267784 -0.09059708]
+*************************InPut : entry : <type 'list'> : [-0.49423129967566204, -0.19944074908316098, -0.002578164008202366]
+InPut : target : <type 'list'> : [-0.48209327707418176, -0.19320636838939412, -0.15195621093843623]
+InPut : theta : <type 'float'> : 0.1
+Output : vector_x:<type 'numpy.ndarray'> : [ 0.46522403 -0.88519256  0.00085871]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.08092015 -0.04156254  0.99585365]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.88148655 -0.46336453 -0.09096581]
+*************************InPut : entry : <type 'list'> : [-0.49423129967566204, -0.19944074908316098, -0.002578164008202366]
+InPut : target : <type 'list'> : [-0.48209327707418176, -0.19320636838939412, -0.15195621093843623]
+InPut : theta : <type 'float'> : -0.1
+Output : vector_x:<type 'numpy.ndarray'> : [ 0.28082618 -0.95960396 -0.01723052]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.08092015 -0.04156254  0.99585365]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.95634125 -0.27826748 -0.08932315]
+*************************InPut : entry : <type 'list'> : [-0.49423129967566204, -0.19944074908316098, -0.002578164008202366]
+InPut : target : <type 'list'> : [-0.48209327707418176, -0.19320636838939412, -0.15195621093843623]
+InPut : theta : <type 'float'> : 0.1
+Output : vector_x:<type 'numpy.ndarray'> : [ 0.46522403 -0.88519256  0.00085871]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.08092015 -0.04156254  0.99585365]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.88148655 -0.46336453 -0.09096581]
+*************************InPut : entry : <type 'list'> : [-0.49423129967566204, -0.19944074908316098, -0.002578164008202366]
+InPut : target : <type 'list'> : [-0.48209327707418176, -0.19320636838939412, -0.15195621093843623]
+InPut : theta : <type 'float'> : 0.2
+Output : vector_x:<type 'numpy.ndarray'> : [ 0.55090166 -0.83451102  0.00993585]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.08092015 -0.04156254  0.99585365]
+Output : vector_y:<type 'numpy.ndarray'> : [-0.83063788 -0.54942144 -0.09042563]
+*************************

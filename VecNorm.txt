@@ -1,0 +1,15 @@
+InPut : vec : <type 'numpy.ndarray'> : [-0.06002718 -0.02337399 -0.07596416]
+Output : norm:<type 'numpy.float64'> : 0.09959999999999998
+*************************InPut : vec : <type 'numpy.ndarray'> : [-0.05706004 -0.02982427 -0.07599227]
+Output : norm:<type 'numpy.float64'> : 0.09960000000000001
+*************************InPut : vec : <type 'numpy.ndarray'> : [-0.0623381  -0.01666118 -0.07587178]
+Output : norm:<type 'numpy.float64'> : 0.09959999999999998
+*************************InPut : vec : <type 'numpy.ndarray'> : [-0.05706004 -0.02982427 -0.07599227]
+Output : norm:<type 'numpy.float64'> : 0.09960000000000001
+*************************InPut : vec : <type 'numpy.ndarray'> : [-0.05346632 -0.03594756 -0.07595581]
+Output : norm:<type 'numpy.float64'> : 0.09959999999999998
+*************************InPut : vec : <type 'numpy.ndarray'> : [ 0.63074384  0.30942619 -0.70725724]
+Output : norm:<type 'numpy.float64'> : 0.9968927531065287
+*************************InPut : vec : <type 'numpy.ndarray'> : [ 0.39810619 -0.81151186 -0.        ]
+Output : norm:<type 'numpy.float64'> : 0.9039026711299756
+*************************

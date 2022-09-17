@@ -1,0 +1,11 @@
+InPut : Entry : <type 'numpy.ndarray'> : [[-494.23129968 -199.44074908   -2.57816401]]
+InPut : Target : <type 'numpy.ndarray'> : [[-482.09327707 -193.20636839 -151.95621094]]
+InPut : EntryTargetRadius : <type 'numpy.ndarray'> : [[1.25]]
+InPut : EntryList : <type 'numpy.ndarray'> : [[-3694.71752384 -5834.14945527  2744.7169772 ]
+ [-2887.9711977  -5824.10400331  2456.38336462]]
+InPut : TargetList : <type 'numpy.ndarray'> : [[-3684.5672647  -5824.64909858 -1324.27810569]
+ [-3384.57050577 -5824.26513663 -1324.061248  ]]
+InPut : sta_inp : <type 'int'> : 1
+InPut : movement : <type 'int'> : 0
+InPut : Robot Positioned
+***********************
