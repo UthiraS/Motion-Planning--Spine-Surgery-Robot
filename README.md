@@ -7,4 +7,4 @@ My Contribution include:
 3. Communication and software integration of KUKA KR6-R700-2 using KRL programming 
 
 Documentation:
-[embed]https://github.com/UthiraS/Motion-Planning--Spine-Surgery-Robot/blob/main/motion_planner_SpineSurgery.pdf [/embed]
+https://github.com/UthiraS/Motion-Planning--Spine-Surgery-Robot/blob/main/motion_planner_SpineSurgery.pdf 
