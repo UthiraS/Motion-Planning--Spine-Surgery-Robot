@@ -1,5 +1,5 @@
 # Motion-Planning--Spine-Surgery-Robot
-Implemented and testing geometry based motion planner with collision avoidance in python for Pedicle Screw insertion Spine Surgery
+Implemented and tested geometry based motion planner with collision avoidance in python for Pedicle Screw insertion Spine Surgery
 
 My Contribution include: 
 1. Development and Implementation of Collision Detection Algorithm
