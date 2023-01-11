@@ -6,5 +6,22 @@ My Contribution include:
 2. Unit Testing and verification of Motion planning framework on UR5E and KUKA KR6-R700-2 robots 
 3. Communication and software integration of KUKA KR6-R700-2 using KRL programming 
 
-Documentation:
-https://github.com/UthiraS/Motion-Planning--Spine-Surgery-Robot/blob/main/motion_planner_SpineSurgery.pdf 
+The software dependencies :
+```
+
+Python 2.7
+numpy 1.14
+urx script
+matplotlib
+scipy
+```
+
+Steps to run :
+```
+1. Enter the ip addraess of the UR5e simumator or tcp port of UR5e hardware
+2. Intall all required libraries
+3. python main.py
+
+```
+<a href ="https://github.com/UthiraS/Motion-Planning--Spine-Surgery-Robot/blob/main/motion_planner_SpineSurgery.pdf"> Documentation</a>
+
