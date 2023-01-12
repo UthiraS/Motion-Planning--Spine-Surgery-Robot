@@ -23,5 +23,5 @@ Steps to run :
 3. python main.py
 
 ```
-<a href ="https://github.com/UthiraS/Motion-Planning--Spine-Surgery-Robot/blob/main/motion_planner_SpineSurgery.pdf"> Documentation</a>
+<a href ="https://github.com/UthiraS/Motion-Planning--Spine-Surgery-Robot/blob/main/SSR_KUKA_motionplanner.pdf"> Documentation</a>
 
