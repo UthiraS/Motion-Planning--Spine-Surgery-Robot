@@ -18,7 +18,7 @@ scipy
 
 Steps to run :
 ```
-1. Enter the ip addraess of the UR5e simumator or tcp port of UR5e hardware
+1. Enter the ip address of the UR5e simumator or tcp port of UR5e hardware
 2. Intall all required libraries
 3. python main.py
 
